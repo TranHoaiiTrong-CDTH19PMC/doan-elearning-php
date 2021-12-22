@@ -8,7 +8,7 @@ class AppServiceProvider extends ServiceProvider
 {
     /**
      * Register any application services.
-     *
+     * Re
      * @return void
      */
     public function register()

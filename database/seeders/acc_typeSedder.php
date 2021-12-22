@@ -9,7 +9,7 @@ class acc_typeSedder extends Seeder
 {
     /**
      * Run the database seeds.
-     *
+     *Run the database seeds.
      * @return void
      */
     public function run()
