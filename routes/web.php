@@ -59,7 +59,13 @@ Route::group(['middleware' => ['auth','sinhvien']], function () {
  
    //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
 //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
-   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
+   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
+//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
+//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
+//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
+//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
+//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
+//  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
 //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
 //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');   //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
 //  Route::get('/',[MainController::class,'trang_chu'])->name('trangchu');
