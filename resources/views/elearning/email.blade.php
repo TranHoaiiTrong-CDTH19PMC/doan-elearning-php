@@ -1,0 +1,1 @@
+thư của {{$name}} gửi vào email theo frameword Laravel 8 nhé hihihi!
